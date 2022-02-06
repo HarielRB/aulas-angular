@@ -1,0 +1,21 @@
+h1 {
+    background-color: rebeccapurple;
+    color: pink;
+    font-weight: bold;
+    border: 1px black solid;
+    width: 600px;
+    text-align: center;
+    border-radius: 10px;
+    text-decoration: dashed;
+}
+
+p {
+    font-weight: bolder;
+}
+
+h3 {
+    color: rgb(202, 202, 13);
+    text-decoration: overline;
+    background-color: greenyellow;
+    width: 5%;
+}
